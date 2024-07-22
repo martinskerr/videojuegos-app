@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/videogamesJSREACT/static/css/main.6eb9a27f.css",
+    "main.js": "/videogamesJSREACT/static/js/main.94455b41.js",
+    "static/js/453.382682ab.chunk.js": "/videogamesJSREACT/static/js/453.382682ab.chunk.js",
+    "index.html": "/videogamesJSREACT/index.html",
+    "main.6eb9a27f.css.map": "/videogamesJSREACT/static/css/main.6eb9a27f.css.map",
+    "main.94455b41.js.map": "/videogamesJSREACT/static/js/main.94455b41.js.map",
+    "453.382682ab.chunk.js.map": "/videogamesJSREACT/static/js/453.382682ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eb9a27f.css",
+    "static/js/main.94455b41.js"
+  ]
+}
